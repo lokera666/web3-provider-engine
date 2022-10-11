@@ -32,7 +32,7 @@
     "clone": "^2.0.0",
     "cross-fetch": "^2.1.0",
     "eth-block-tracker": "^4.4.2",
-    "eth-json-rpc-filters": "^4.2.1",
+    "eth-json-rpc-filters": "^4.2.2",
     "eth-json-rpc-infura": "^5.1.0",
     "eth-json-rpc-middleware": "^6.0.0",
     "eth-rpc-errors": "^3.0.0",
