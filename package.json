@@ -27,7 +27,7 @@
     "ganache-core/**/elliptic": "^6.5.2"
   },
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "backoff": "^2.5.0",
     "clone": "^2.0.0",
     "cross-fetch": "^2.1.0",
