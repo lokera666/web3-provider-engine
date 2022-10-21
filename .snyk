@@ -1,0 +1,18 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - async > lodash:
+        patched: '2022-10-21T01:03:16.610Z'
+    - ethereumjs-block > async > lodash:
+        patched: '2022-10-21T01:03:16.610Z'
+    - ethereumjs-vm > async > lodash:
+        patched: '2022-10-21T01:03:16.610Z'
+    - ethereumjs-vm > async-eventemitter > async > lodash:
+        patched: '2022-10-21T01:03:16.610Z'
+    - ethereumjs-vm > ethereumjs-block > async > lodash:
+        patched: '2022-10-21T01:03:16.610Z'
+    - eth-block-tracker > @babel/plugin-transform-runtime > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-10-21T01:03:16.610Z'
